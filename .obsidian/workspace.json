@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "ac69bd3e378f96a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bdfba43c44109e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5a02d611e22020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Блокчейн/Блокчейн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefc38b42bc92654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дела.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c88cb6f08efe6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корелляции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feaa673a3ceb25aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f9d4aacf150837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ef8f52bcfc6b82d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43a76f6070201809",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "301e35a4517ce399",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6c74e8e335040899",
+    "type": "split",
+    "children": [
+      {
+        "id": "055da71f0435a30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fffd8230a1ce37b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Корелляции.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07a85ed10861e3ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Корелляции.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b3f9f54e22d4beb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbc6a4443e53f251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Корелляции.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6c88cb6f08efe6bf",
+  "lastOpenFiles": [
+    "Дела.md",
+    "Корелляции.md",
+    "DevOps.md",
+    "Tik Tok trend bot.md",
+    "WEB.md",
+    "Блокчейн/Блокчейн.md",
+    "Блокчейн/Смарт-контракт.md",
+    "Блокчейн/Токен.md",
+    "Cache/Chto_dolzhen_znat_DevOps_inzhener-1.png",
+    "60 * 80 =.md",
+    "Cache",
+    "Без названия.canvas",
+    "Блокчейн",
+    "Pasted image 20240305023521.png"
+  ]
+}

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: skjga-rdpt7
+created: 2024-10-24T19:11:28+03:00

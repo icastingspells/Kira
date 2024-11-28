@@ -90,3 +90,15 @@ button {
 
 - Блоки с выступами:
 	https://htmlbook.ru/blog/treugolniki-cherez-css
+- Компрессор видео
+	https://www.freeconvert.com/video-compressor/
+
+
+#Аккордеон
+
+```html
+<details>
+	<summary>
+	</summary>
+</details>
+```
